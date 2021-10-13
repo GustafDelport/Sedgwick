@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/GustafDelport/Sedgwick#readme",
   "dependencies": {
-    "discord-akairo": "^8.1.0",
+    "discord-akairo": "github:discord-akairo/discord-akairo",
     "discord.js": "^13.2.0",
     "dotenv": "^10.0.0"
   }
