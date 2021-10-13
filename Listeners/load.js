@@ -17,4 +17,4 @@ class LoadListener extends Listener {
     }
 }
 
-module.exports = removeEventListener;
+module.exports = LoadListener;
